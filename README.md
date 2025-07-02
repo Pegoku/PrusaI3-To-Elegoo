@@ -13,6 +13,7 @@ The printer was in a non-working state, with the original printhead being clogge
 - Added a new mount for the printhead to fit the new printhead.
 - Installed klipper using an old laptop as the klipper host.
 - Custom steel plate added to the bed for better heat distribution and to allow for a magnetic bed.
+- Extra PSU (19V) for the Stepper motors and printhead, as the original PSU was only 12V and not powerful enough for the new printhead.
 
 # Final result
 Benchy:
